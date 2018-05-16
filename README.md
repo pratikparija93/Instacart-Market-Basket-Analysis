@@ -2,7 +2,7 @@
 
 Instacart Market Basket Analysis: This project is about predicting the likelihood of customer reordering a previously purchased product from the online grocery store called Instacasrt.
 
-Table of Contents
+Table of Contents (read them in the order as below)
 
 File-1
   Instacart Market Basket Analysis:
